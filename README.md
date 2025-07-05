@@ -1,7 +1,6 @@
 
 <p align=""> 🎓 Me chamo Luis Matheus, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Senac de Pelotas. Tenho como objetivo de me especializar no desenvolvimento frontend. Estou sempre buscando aprimorar meus conhecimentos e enfrentar novos desafios na área de tecnologia, com o intuito de criar soluções criativas e eficientes que atendam às necessidades dos usuários.</p>
 
-<img align="right" height="190" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29jeG8wMzN4NjRqcG5sbWE5dG9jaXRudzUyMzJzZTZxNnU0MWg2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 <h3>📬 Connect with me! </h3>
 
