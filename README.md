@@ -7,6 +7,7 @@
 ###
 
 <a href = "mailto:matheusdsf94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-fernandes-3606441bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h3> 💻 My stack</h3>
 
